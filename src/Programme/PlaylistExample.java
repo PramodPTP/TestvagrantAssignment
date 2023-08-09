@@ -58,16 +58,7 @@ public class PlaylistExample {
 		System.out.println(store.printReverseOrder("user1")+"\n"+"When S2 song is played");
 
 		store.addSong("user1", "S1");
-		System.out.println( store.printReverseOrder("user1")+"\n"+"When S1 song is played ");
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println( store.printReverseOrder("user1")+"\n"+"When S1 song is played ");	
 		
 	}
 }
