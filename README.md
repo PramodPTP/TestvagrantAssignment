@@ -1,8 +1,8 @@
 # TestvagrantAssignment
 Java Programme
 
-In this project i have used java Language to write programme
-i have used collection concept to store the all playlist songs (like Hash and Linked List)
+In this project i have used java Language to write programme,
+i have used collection concept to store the all playlist songs (like Hash and Linked List),
 Created Addsong Method,I have added all 3 songs(S1,S2,S3),I have mentioned the minimum songs capacity in mainmethod,
 if songs is greater the  minimum capacity it will remove first song,it will add new song in the last array(when S4 playlist played as you mentioned  (S2,S3,S4),
 It will work for all three conditions like when S2 is played it will remove S2 and it will added to last playlist.
